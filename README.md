@@ -68,7 +68,7 @@ GROUP BY
     category ORDER BY minutes_played DESC 
 ```
 
-### Results/Findings
+### Findings
 
 
 
